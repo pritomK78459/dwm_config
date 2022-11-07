@@ -1,0 +1,8 @@
+compton
+feh --no-fehbg --bg-fill '/home/pritom/Pictures/wallpapers/wallpaper2.jpg'
+wal -R
+
+while true; do
+  xsetroot -name "$(date)"
+  sleep 1s
+
